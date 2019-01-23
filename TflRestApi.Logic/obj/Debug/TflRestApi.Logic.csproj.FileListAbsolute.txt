@@ -1,0 +1,9 @@
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\TflRestApi\TflRestApi.Logic\bin\Debug\TflRestApi.Logic.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\TflRestApi\TflRestApi.Logic\bin\Debug\TflRestApi.Logic.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\TflRestApi\TflRestApi.Logic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\TflRestApi\TflRestApi.Logic\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\TflRestApi\TflRestApi.Logic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\TflRestApi\TflRestApi.Logic\obj\Debug\TflRestApi.Logic.csproj.CoreCompileInputs.cache
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\TflRestApi\TflRestApi.Logic\obj\Debug\TflRestApi.Logic.csproj.CopyComplete
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\TflRestApi\TflRestApi.Logic\obj\Debug\TflRestApi.Logic.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\TflRestApi\TflRestApi.Logic\obj\Debug\TflRestApi.Logic.pdb
